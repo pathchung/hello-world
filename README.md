@@ -1,2 +1,2 @@
 # hello-world
-small step for pat kind
+first small step for pat kind
